@@ -18,7 +18,7 @@ For our classification analysis, we decided to use the K-Means algorithm to clas
 
 A model was generated and fit to the underlying data to produce predictions of each of the 4 classification classes which were then added to the primary data frame. the results of this analysis can be seen below:
 
-![3d](cd_scatter.png)
+![3d](3d_scatter.png)
 
 Scaled values of the coins were also plotted using total coins mined and total coin supply as the dimensions
 
